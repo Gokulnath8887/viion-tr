@@ -2,9 +2,6 @@
 TITLE Vision-Translate (GlobalSpeak) Runner
 CLS
 
-REM Set working directory to script location
-cd /d "%~dp0"
-
 ECHO ======================================================
 ECHO         Vision-Translate (GlobalSpeak)
 ECHO ======================================================
